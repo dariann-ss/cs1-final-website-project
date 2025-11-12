@@ -11,7 +11,8 @@ Your final project is to use all your HTML and CSS skills to create a polished a
 5. Develop basic HTML structure for main component container divs (header, nav, main, etc.)
 6. Use CSS position and box model properties to arrange main components on screen
 7. Add detailed content and CSS styling for font, color, transitions, and animations
-8. Test and refine
+8. Test and get feedback
+9. Revise and refine
 
 # Grading Rubric
 ## Files
