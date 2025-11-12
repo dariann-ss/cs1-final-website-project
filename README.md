@@ -32,7 +32,8 @@ Your final project is to use all your HTML and CSS skills to create a polished a
 
 ## Design
 - [ ] Consistent color scheme
-- [ ] At least one font-family choice (Your site should not be using the default Times New Roman font)
+- [ ] Visual hierarchy: Size, color, contrast, etc. used to focus users' attention
+- [ ] Typography: at least one font-family choice (Your site should not be using the default Times New Roman font)
 - [ ] Hover or active effects used extensively
 - [ ] Correct spelling, grammar, and punctuation
 
