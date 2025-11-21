@@ -1,0 +1,45 @@
+.my-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+
+.hud-nav {
+  position: fixed;
+  top: 3;
+  width: 30%;
+  background: rgba(129, 2, 2, 0.552);
+  border-bottom: 1px solid #00ff88;
+  display: flex;
+  padding: 25px;
+  font-family: 'Courier New', monospace;
+}
+
+.cart-hud {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: rgb(119, 0, 0);
+  border: 2px solid #000000;
+  padding: 10px;
+  display: flex;
+  color: #a3a3a3;
+  font-family: 'Courier New', monospace;
+  font-size: 25px;
+}
+
+.cart-count {
+  background: #939290;
+  color: black;
+  padding: 2px 8px;
+  margin-left: 5px;
+}
